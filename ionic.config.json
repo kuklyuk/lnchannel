@@ -1,0 +1,7 @@
+{
+  "name": "lnchannel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
